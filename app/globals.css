@@ -30,7 +30,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .container-max {
-  @apply max-w-[1200px] mx-auto px-5 sm:px-6 lg:px-8;
+  @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
 }
 
 .btn-primary {
